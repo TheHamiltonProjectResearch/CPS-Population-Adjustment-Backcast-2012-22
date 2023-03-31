@@ -15,6 +15,6 @@ Use your CPS Monthly microdata. You will need to construct race/ethnicity and ag
 
 ## About The Hamilton Project
 
-The Hamilton Project at Brookings produces research and policy proposals on how to create a growing economy that benefits more Americans. Find us on [*Twitter*](https://twitter.com/hamiltonproj) and at [*hamiltonproject.org*](hamiltonproject.org).
+The Hamilton Project at Brookings produces research and policy proposals on how to create a growing economy that benefits more Americans. Find us on [*Twitter*](https://twitter.com/hamiltonproj) and at [*hamiltonproject.org*](https://www.hamiltonproject.org/).
 
 
