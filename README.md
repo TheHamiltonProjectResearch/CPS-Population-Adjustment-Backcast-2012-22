@@ -1,6 +1,6 @@
 # [**CPS-Population-Adjustment-Backcast-2012-22**](https://www.hamiltonproject.org/blog/whos_missing_from_the_post_pandemic_labor_force)
 
-These files provide the weights The Hamilton Project and the Upjohn Institute used to construct the CPS population adjustment backcast detailed in the blog: [Who's Missing from the Post Pandemic Labor Force] (https://www.hamiltonproject.org/blog/whos_missing_from_the_post_pandemic_labor_force). The corresponding technical appendix ADD LINK provides a more detailed description of the methods used for the backcast and decomposition.
+These files provide the weights The Hamilton Project and the Upjohn Institute used to construct the CPS population adjustment backcast detailed in the blog: [*Who's Missing from the Post Pandemic Labor Force*](https://www.hamiltonproject.org/blog/whos_missing_from_the_post_pandemic_labor_force). The corresponding technical appendix ADD LINK provides a more detailed description of the methods used for the backcast and decomposition.
 
 
 
@@ -15,6 +15,6 @@ Use your CPS Monthly microdata. You will need to construct race/ethnicity and ag
 
 ## About The Hamilton Project
 
-The Hamilton Project at Brookings produces research and policy proposals on how to create a growing economy that benefits more Americans. Find us on [Twitter](https://twitter.com/hamiltonproj) and at [hamiltonproject.org](hamiltonproject.org).
+The Hamilton Project at Brookings produces research and policy proposals on how to create a growing economy that benefits more Americans. Find us on [*Twitter*](https://twitter.com/hamiltonproj) and at [*hamiltonproject.org*](hamiltonproject.org).
 
 
