@@ -6,9 +6,9 @@ These files provide the weights The Hamilton Project and the Upjohn Institute us
 
 ## Instructions
 
-This program is written for Stata and for microdata provided by IPUMS. For those using other base data or programs, it should clarify the variables by which you can merge the backcast file with your data.
+This program is written for Stata and for microdata provided by IPUMS. Please open the file CPS Census Backcast Cells to begin. For those using other base data or programs, it should clarify the variables by which you can merge the backcast file with your data.
 
-Open or import CPS Census Backcast THP Upjohn data file to get a sense for the setup and save
+Open or import CPS Census Backcast THP Upjohn data file to get a sense for the setup and save.
 
 Use your CPS Monthly microdata. You will need to construct race/ethnicity and age variables to match to the backcast file. These cells were selected to match the smallest cells that The Census Bureau provided to assess the effect of the population adjustments in January 2022 and January 2023.
 
