@@ -1,6 +1,6 @@
 # [**CPS-Population-Adjustment-Backcast-2012-22**](https://www.hamiltonproject.org/blog/whos_missing_from_the_post_pandemic_labor_force)
 
-These files provide the original and adjusted weights (monthly and annualized) The Hamilton Project and the Upjohn Institute used to construct the CPS population adjustment backcast detailed in the post: [*Who's Missing from the Post-Pandemic Labor Force?*](https://www.hamiltonproject.org/blog/whos_missing_from_the_post_pandemic_labor_force) The corresponding [*technical appendix*](https://www.hamiltonproject.org/assets/files/20230404_THP_TechnicalAppendix_LaborMarket.pdf) provides a more detailed description of the methods used for the backcast and decomposition. The spreadsheet containing the published and backcast labor market data is also available for download.
+These files provide the original and adjusted weights (monthly and annualized) The Hamilton Project and the Upjohn Institute used to construct the CPS population adjustment backcast detailed in the post: [*Who's Missing from the Post-Pandemic Labor Force?*](https://www.hamiltonproject.org/blog/whos_missing_from_the_post_pandemic_labor_force) The corresponding [*technical appendix*](https://www.hamiltonproject.org/assets/files/20230404_THP_TechnicalAppendix_LaborMarket.pdf) provides a more detailed description of the methods used for the backcast and decomposition. The spreadsheet containing the published and backcast labor market data is also available for download. Please note that these numbers are not seasonally adjusted.
 
 
 
