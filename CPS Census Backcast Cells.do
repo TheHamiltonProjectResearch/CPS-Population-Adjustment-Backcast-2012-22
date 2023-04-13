@@ -12,7 +12,7 @@ replace ethnic=2 if race==200  & ethnic==.
 replace ethnic=4 if race==651  & ethnic==. 
 replace ethnic=5 if inlist(race, 300, 650) & ethnic==. 
 replace ethnic=5 if inrange(race, 652, 830) & ethnic==. 
-label define ethniclab 1 "white" 2 "Black" 3 "Hispanic" 4 "other"
+label define ethniclab 1 "white" 2 "Black" 6 "Hispanic" 5 "other" 4 "Asian"
 label values ethnic ethniclab
 
 /// Age Groups
